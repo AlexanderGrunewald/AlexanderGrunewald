@@ -1,12 +1,29 @@
-- 👋 Hi, I’m Alexander Grunewald
-
+# Hi there 👋, I'm Alexander Grunewald
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)](https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Data Science and Statistics at Michigan State
 
+## 🚀 About Me
+Hello! I'm a Data Scientist specialized in machine learning algorithms and statistical models. I'm particularly interested in applying data science techniques in the use of emulators. 
 
-<!---
-AlexanderGrunewald/AlexanderGrunewald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working at [Bosch Switzerland](https://www.bosch.ch).
+- 🌱 Learning more about and studying: **Machine Learning, Statistics, Astrophysics, **
+- 📚 Attended: [Michigan State University](https://msu.edu)
+
+## 🛠️ Skills
+
+### Languages
+- **Python** - Proficient
+- **R** - Proficient
+- **SQL** - Intermediate
+- **JavaScript** - Intermediate
+- **C++** - Beginner
+
+## 📚 Certifications
+- Google Advanced Data Analytics Certification - coursera
+
+## 🎯 Projects I'm working on
+- [TARDIS Emulator]("https://github.com/AlexanderGrunewald/TARDIS-Emulator")
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)
+- [Email](alexgrunewald123@gmail.com)
