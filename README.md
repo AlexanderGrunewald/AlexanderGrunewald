@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)](https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)
 
+
 ## 🚀 About Me
 Hello! I'm a Data Scientist specialized in machine learning algorithms and statistical models. I'm particularly interested in applying data science techniques in the use of emulators. 
 
@@ -11,12 +12,15 @@ Hello! I'm a Data Scientist specialized in machine learning algorithms and stati
 
 ## 🛠️ Skills
 
-### Languages
-- **Python** - Proficient
-- **R** - Proficient
-- **SQL** - Intermediate
-- **JavaScript** - Intermediate
-- **C++** - Beginner
+### 💻 Programming Languages
+
+```text
+Python      ███████████████████████░░░░  85%  
+R           ██████████████████████░░░░░  80%
+SQL         ████████████████░░░░░░░░░░░  60%   
+JavaScript  ████████████░░░░░░░░░░░░░░░  40%
+C++         ████░░░░░░░░░░░░░░░░░░░░░░░  10%
+```
 
 ## 📚 Certifications
 - Google Advanced Data Analytics Certification - coursera
