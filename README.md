@@ -9,7 +9,7 @@ Hello! I'm a Data Scientist specialized in machine learning algorithms and stati
 - 🔭 I’m currently working at [Bosch Switzerland](https://www.bosch.ch).
 - 📚 Undergraduate Researcher for the [Kerzen Dorf Group](https://github.com/kerzendorf-group).
 - 🌱 Learning more about and studying: **Machine Learning, Statistics, Astrophysics**.
-- 🏫 Attended: [Michigan State University](https://msu.edu).
+- 🏫 Attending: [Michigan State University](https://msu.edu).
 
 ## 🛠️ Skills
 
