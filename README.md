@@ -22,7 +22,7 @@ Hello! I'm a Data Scientist specialized in machine learning algorithms and stati
 - Google Advanced Data Analytics Certification - coursera
 
 ## 🎯 Projects I'm working on
-- [TARDIS-Emulator]("https://github.com/AlexanderGrunewald/TARDIS-Emulator")
+- [TARDIS-Emulator](https://github.com/AlexanderGrunewald/TARDIS-Emulator)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/alexander-grunewald-8007a51b5/)
