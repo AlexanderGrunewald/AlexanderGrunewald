@@ -6,7 +6,7 @@
 ## 🚀 About Me
 Hello! I'm a Data Scientist specialized in machine learning algorithms and statistical models. I'm particularly interested in applying data science techniques in the use of emulators. 
 
-- 🔭 I’m currently working at [Bosch Switzerland](https://www.bosch.ch).
+- 🔭 I’m currently working at Michigan State University as a Learning Assistant
 - 📚 Undergraduate Researcher for the [Kerzen Dorf Group](https://github.com/kerzendorf-group).
 - 🌱 Learning more about and studying: **Machine Learning, Statistics, Astrophysics**.
 - 🏫 Attending: [Michigan State University](https://msu.edu).
@@ -14,15 +14,10 @@ Hello! I'm a Data Scientist specialized in machine learning algorithms and stati
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-
-```text
-Python      ███████████████████████░░░░  85%  
-R           ██████████████████████░░░░░  80%
-SQL         ████████████████░░░░░░░░░░░  60%   
-JavaScript  ████████████░░░░░░░░░░░░░░░  40%
-C++         ████░░░░░░░░░░░░░░░░░░░░░░░  10%
-```
-
+- Python
+- SQL
+- R
+- C++
 ## 📚 Certifications
 - Google Advanced Data Analytics Certification - coursera
 
